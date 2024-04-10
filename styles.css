@@ -37,9 +37,9 @@ body {
 .input-wrapper input {
     background-color: transparent;
     border: 0;
-    float: 1;
     outline: none;
     padding: 10px 20px;
+    flex: 1;
 }
 
 .input-wrapper button {
